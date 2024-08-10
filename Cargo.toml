@@ -5,7 +5,7 @@ version = "0.1.0"
 license-file = "LICENSE.md"
 repository = "https://github.com/c16a/whoosh"
 homepage = "https://github.com/c16a/whoosh"
-keywords = ["kv", "database"]
+keywords = ["pubsub", "events", "broker"]
 readme = "README.md"
 edition = "2021"
 

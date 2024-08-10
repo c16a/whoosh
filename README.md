@@ -1,4 +1,4 @@
-# Pouch
+# Whoosh
 
 A really tiny event broker.
 
